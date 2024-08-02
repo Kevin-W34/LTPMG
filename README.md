@@ -1,7 +1,9 @@
+# LTPMG
+
 LTPMG: Towards Multi-GPU Accelerated Transaction Processing of Large Batches
 
-compile:
+# Compile:
 bash compile.sh
 
-execution:
+# Execution:
 bash execute.sh
