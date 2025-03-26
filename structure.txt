@@ -1,8 +1,0 @@
-Attribute类: 实现表中属性名称\ 属性类型\ 属性数据分布
-Row类: 实现表的各个Attributes\ 表名称\ 表规模
-Row_Parser类: 解析json到多个Row, 相当于解析出来数据库的各个表信息
-Data_Generator类: 生成数据表中的数据
-Database类: 拥有解析json, 生成数据表的功能
-
-Txn_Generator类: 生成事务信息
-Query类: 生成事务并与通知GPU端执行引擎执行事务\ 传输事务信息
