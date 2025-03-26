@@ -1,0 +1,61 @@
+{
+    "tables": [
+        {
+            "name": "table1",
+            "size": 8,
+            "attributes": [
+                {
+                    "name": "id",
+                    "type": "int",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "balance",
+                    "type": "double",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "data_distribution": "dist"
+                }
+            ]
+        },
+        {
+            "name": "table2",
+            "size": 24,
+            "attributes": [
+                {
+                    "name": "a",
+                    "type": "int",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "b",
+                    "type": "int",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "c",
+                    "type": "int",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "d",
+                    "type": "double",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "e",
+                    "type": "double",
+                    "data_distribution": "dist"
+                },
+                {
+                    "name": "f",
+                    "type": "string",
+                    "data_distribution": "dist"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="a6000 (9b1c7bda-4d46-4a1e-bdf6-16fa9b5bf0e0)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="a6000 (9b1c7bda-4d46-4a1e-bdf6-16fa9b5bf0e0)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ltpmg" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-b215" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-b215" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="a6000 (c6833ab5-446e-4b7b-a7ee-f465026d2eec)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

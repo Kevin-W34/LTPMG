@@ -1,0 +1,102 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "cuda",
+					"jsonFile" : "directory-cuda-Release-23c5d1faa9000ee48c4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.9"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cuda",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ltpmg",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "gpu",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "gpu::@166cd5f16c8e65e20d5b",
+					"jsonFile" : "target-gpu-Release-f45812fd86556d3830bd.json",
+					"name" : "gpu",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ltpmg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ltpmg-Release-debae6fdf559cde43d10.json",
+					"name" : "ltpmg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/users/wjp/ltpmg/cmake-build-release",
+		"source" : "/home/users/wjp/ltpmg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

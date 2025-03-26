@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" -S /home/users/wjp/ltpmg -B /home/users/wjp/ltpmg/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/users/wjp/ltpmg/cmake-build-release

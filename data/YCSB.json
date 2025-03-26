@@ -1,0 +1,60 @@
+{
+  "tables": [
+    {
+      "name": "ycsb",
+      "size": 10,
+      "attributes": [
+        {
+          "name": "a",
+          "type": "int",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "b",
+          "type": "double",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "c",
+          "type": "string",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "d",
+          "type": "int",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "e",
+          "type": "double",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "f",
+          "type": "string",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "g",
+          "type": "int",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "h",
+          "type": "double",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "i",
+          "type": "string",
+          "data_distribution": "dist"
+        },
+        {
+          "name": "j",
+          "type": "string",
+          "data_distribution": "dist"
+        }
+      ]
+    }
+  ]
+}

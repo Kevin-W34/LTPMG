@@ -1,0 +1,6 @@
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/CMakeFiles/ltpmg.dir
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/CMakeFiles/edit_cache.dir
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/CMakeFiles/rebuild_cache.dir
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/cuda/CMakeFiles/gpu.dir
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/cuda/CMakeFiles/edit_cache.dir
+/home/b215/weijianpeng/ltpmg/cmake-build-release-b215/cuda/CMakeFiles/rebuild_cache.dir
